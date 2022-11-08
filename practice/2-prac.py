@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #check if user name is >= 5 and <= 25
 name = input("Please what is your name: ")
 if len(name) < 5:
